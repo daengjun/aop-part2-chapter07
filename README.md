@@ -1,8 +1,5 @@
 ## 녹음기
-|Screenshot1|Screenshot2|
 
+![235030740-590258ee-34dc-4d2b2-b7c6-c562e12c493d](https://user-images.githubusercontent.com/98893006/235084523-43baaecc-8518-48be-b0f9-6ad35b9a4f7f.png)  
 
-![235030740-590258ee-34dc-4d2b2-b7c6-c562e12c493d](https://user-images.githubusercontent.com/98893006/235084110-97ae9eff-57ff-4293-9b70-304af7eaf297.png)
-
-![68747470733a2f2f692e696d6775722e636f6d2f4355624b3954542e73306e67](https://user-images.githubusercontent.com/98893006/235084144-e9b1f254-d0bf-48aa-897f-d70a1160088b.png)
-
+![68747470733a2f2f692e696d6775722e636f6d2f4355624b3954542e73306e67](https://user-images.githubusercontent.com/98893006/235084527-5d3664f9-b452-478e-b924-237994a963f0.png)
